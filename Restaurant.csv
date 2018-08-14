@@ -1,0 +1,1000 @@
+total_bill,tip,sex,smoker,day,time,size,food
+16.99,1.01,Female,No,Sun,Dinner,2,poutine
+10.34,1.66,Male,No,Sun,Dinner,3,pizza
+21.01,3.5,Male,No,Sun,Dinner,3,burger
+23.68,3.31,Male,No,Sun,Dinner,2,shawarma
+24.59,3.61,Female,No,Sun,Dinner,4,bagel
+25.29,4.71,Male,No,Sun,Dinner,4,tacos
+8.77,2,Male,No,Sun,Dinner,2,nachos
+26.88,3.12,Male,No,Sun,Dinner,4,butter tarts
+15.04,1.96,Male,No,Sun,Dinner,2,burritos
+14.78,3.23,Male,No,Sun,Dinner,2,poutine
+10.27,1.71,Male,No,Sun,Dinner,2,pizza
+35.26,5,Female,No,Sun,Dinner,4,burger
+15.42,1.57,Male,No,Sun,Dinner,2,shawarma
+18.43,3,Male,No,Sun,Dinner,4,bagel
+14.83,3.02,Female,No,Sun,Dinner,2,tacos
+21.58,3.92,Male,No,Sun,Dinner,2,nachos
+10.33,1.67,Female,No,Sun,Dinner,3,butter tarts
+16.29,3.71,Male,No,Sun,Dinner,3,burritos
+16.97,3.5,Female,No,Sun,Dinner,3,poutine
+20.65,3.35,Male,No,Sat,Dinner,3,pizza
+17.92,4.08,Male,No,Sat,Dinner,2,burger
+20.29,2.75,Female,No,Sat,Dinner,2,shawarma
+15.77,2.23,Female,No,Sat,Dinner,2,bagel
+39.42,7.58,Male,No,Sat,Dinner,4,poutine
+19.82,3.18,Male,No,Sat,Dinner,2,pizza
+17.81,2.34,Male,No,Sat,Dinner,4,burger
+13.37,2,Male,No,Sat,Dinner,2,shawarma
+12.69,2,Male,No,Sat,Dinner,2,bagel
+21.7,4.3,Male,No,Sat,Dinner,2,poutine
+19.65,3,Female,No,Sat,Dinner,2,nachos
+9.55,1.45,Male,No,Sat,Dinner,2,butter tarts
+18.35,2.5,Male,No,Sat,Dinner,4,burritos
+15.06,3,Female,No,Sat,Dinner,2,poutine
+20.69,2.45,Female,No,Sat,Dinner,4,pizza
+17.78,3.27,Male,No,Sat,Dinner,2,burger
+24.06,3.6,Male,No,Sat,Dinner,3,shawarma
+16.31,2,Male,No,Sat,Dinner,3,bagel
+16.93,3.07,Female,No,Sat,Dinner,3,tacos
+18.69,2.31,Male,No,Sat,Dinner,3,nachos
+31.27,5,Male,No,Sat,Dinner,3,butter tarts
+16.04,2.24,Male,No,Sat,Dinner,3,burritos
+17.46,2.54,Male,No,Sun,Dinner,2,poutine
+13.94,3.06,Male,No,Sun,Dinner,2,pizza
+9.68,1.32,Male,No,Sun,Dinner,2,burger
+30.4,5.6,Male,No,Sun,Dinner,4,shawarma
+18.29,3,Male,No,Sun,Dinner,2,bagel
+22.23,5,Male,No,Sun,Dinner,2,poutine
+32.4,6,Male,No,Sun,Dinner,4,pizza
+28.55,2.05,Male,No,Sun,Dinner,3,burger
+18.04,3,Male,No,Sun,Dinner,2,shawarma
+12.54,2.5,Male,No,Sun,Dinner,2,bagel
+10.29,2.6,Female,No,Sun,Dinner,2,poutine
+34.81,5.2,Female,No,Sun,Dinner,4,nachos
+9.94,1.56,Male,No,Sun,Dinner,2,butter tarts
+25.56,4.34,Male,No,Sun,Dinner,4,burritos
+19.49,3.51,Male,No,Sun,Dinner,2,poutine
+38.01,3,Male,Yes,Sat,Dinner,4,pizza
+26.41,1.5,Female,No,Sat,Dinner,2,burger
+11.24,1.76,Male,Yes,Sat,Dinner,2,shawarma
+48.27,6.73,Male,No,Sat,Dinner,4,bagel
+20.29,3.21,Male,Yes,Sat,Dinner,2,tacos
+13.81,2,Male,Yes,Sat,Dinner,2,nachos
+11.02,1.98,Male,Yes,Sat,Dinner,2,butter tarts
+18.29,3.76,Male,Yes,Sat,Dinner,4,burritos
+17.59,2.64,Male,No,Sat,Dinner,3,poutine
+20.08,3.15,Male,No,Sat,Dinner,3,nachos
+16.45,2.47,Female,No,Sat,Dinner,2,butter tarts
+3.07,1,Female,Yes,Sat,Dinner,1,burritos
+20.23,2.01,Male,No,Sat,Dinner,2,poutine
+15.01,2.09,Male,Yes,Sat,Dinner,2,pizza
+12.02,1.97,Male,No,Sat,Dinner,2,burger
+17.07,3,Female,No,Sat,Dinner,3,shawarma
+26.86,3.14,Female,Yes,Sat,Dinner,2,nachos
+25.28,5,Female,Yes,Sat,Dinner,2,butter tarts
+14.73,2.2,Female,No,Sat,Dinner,2,burritos
+10.51,1.25,Male,No,Sat,Dinner,2,pizza
+17.92,3.08,Male,Yes,Sat,Dinner,2,burger
+27.2,4,Male,No,Thur,Lunch,4,shawarma
+22.76,3,Male,No,Thur,Lunch,2,bagel
+17.29,2.71,Male,No,Thur,Lunch,2,poutine
+19.44,3,Male,Yes,Thur,Lunch,2,burritos
+16.66,3.4,Male,No,Thur,Lunch,2,poutine
+10.07,1.83,Female,No,Thur,Lunch,1,nachos
+32.68,5,Male,Yes,Thur,Lunch,2,butter tarts
+15.98,2.03,Male,No,Thur,Lunch,2,burritos
+34.83,5.17,Female,No,Thur,Lunch,4,poutine
+13.03,2,Male,No,Thur,Lunch,2,pizza
+18.28,4,Male,No,Thur,Lunch,2,burger
+24.71,5.85,Male,No,Thur,Lunch,2,shawarma
+21.16,3,Male,No,Thur,Lunch,2,nachos
+28.97,3,Male,Yes,Fri,Dinner,2,butter tarts
+22.49,3.5,Male,No,Fri,Dinner,2,burritos
+5.75,1,Female,Yes,Fri,Dinner,2,pizza
+16.32,4.3,Female,Yes,Fri,Dinner,2,burger
+22.75,3.25,Female,No,Fri,Dinner,2,shawarma
+40.17,4.73,Male,Yes,Fri,Dinner,4,bagel
+27.28,4,Male,Yes,Fri,Dinner,2,poutine
+12.03,1.5,Male,Yes,Fri,Dinner,2,nachos
+21.01,3,Male,Yes,Fri,Dinner,2,butter tarts
+12.46,1.5,Male,No,Fri,Dinner,2,burritos
+11.35,2.5,Female,Yes,Fri,Dinner,2,poutine
+15.38,3,Female,Yes,Fri,Dinner,2,pizza
+44.3,2.5,Female,Yes,Sat,Dinner,3,burger
+22.42,3.48,Female,Yes,Sat,Dinner,2,shawarma
+20.92,4.08,Female,No,Sat,Dinner,2,nachos
+15.36,1.64,Male,Yes,Sat,Dinner,2,butter tarts
+20.49,4.06,Male,Yes,Sat,Dinner,2,burritos
+25.21,4.29,Male,Yes,Sat,Dinner,2,pizza
+18.24,3.76,Male,No,Sat,Dinner,2,burger
+14.31,4,Female,Yes,Sat,Dinner,2,shawarma
+14,3,Male,No,Sat,Dinner,2,bagel
+7.25,1,Female,No,Sat,Dinner,1,poutine
+38.07,4,Male,No,Sun,Dinner,3,burger
+23.95,2.55,Male,No,Sun,Dinner,2,shawarma
+25.71,4,Female,No,Sun,Dinner,3,nachos
+17.31,3.5,Female,No,Sun,Dinner,2,butter tarts
+29.93,5.07,Male,No,Sun,Dinner,4,burritos
+10.65,1.5,Female,No,Thur,Lunch,2,pizza
+12.43,1.8,Female,No,Thur,Lunch,2,burger
+24.08,2.92,Female,No,Thur,Lunch,4,nachos
+11.69,2.31,Male,No,Thur,Lunch,2,butter tarts
+13.42,1.68,Female,No,Thur,Lunch,2,burritos
+14.26,2.5,Male,No,Thur,Lunch,2,pizza
+15.95,2,Male,No,Thur,Lunch,2,burger
+12.48,2.52,Female,No,Thur,Lunch,2,shawarma
+29.8,4.2,Female,No,Thur,Lunch,6,nachos
+8.52,1.48,Male,No,Thur,Lunch,2,butter tarts
+14.52,2,Female,No,Thur,Lunch,2,shawarma
+11.38,2,Female,No,Thur,Lunch,2,bagel
+22.82,2.18,Male,No,Thur,Lunch,3,poutine
+19.08,1.5,Male,No,Thur,Lunch,2,burger
+20.27,2.83,Female,No,Thur,Lunch,2,shawarma
+11.17,1.5,Female,No,Thur,Lunch,2,nachos
+12.26,2,Female,No,Thur,Lunch,2,butter tarts
+18.26,3.25,Female,No,Thur,Lunch,2,burritos
+8.51,1.25,Female,No,Thur,Lunch,2,pizza
+10.33,2,Female,No,Thur,Lunch,2,burger
+14.15,2,Female,No,Thur,Lunch,2,nachos
+16,2,Male,Yes,Thur,Lunch,2,butter tarts
+13.16,2.75,Female,No,Thur,Lunch,2,burritos
+17.47,3.5,Female,No,Thur,Lunch,2,pizza
+34.3,6.7,Male,No,Thur,Lunch,6,burger
+41.19,5,Male,No,Thur,Lunch,5,shawarma
+27.05,5,Female,No,Thur,Lunch,6,nachos
+16.43,2.3,Female,No,Thur,Lunch,2,butter tarts
+8.35,1.5,Female,No,Thur,Lunch,2,shawarma
+18.64,1.36,Female,No,Thur,Lunch,3,bagel
+11.87,1.63,Female,No,Thur,Lunch,2,poutine
+9.78,1.73,Male,No,Thur,Lunch,2,burger
+7.51,2,Male,No,Thur,Lunch,2,shawarma
+14.07,2.5,Male,No,Sun,Dinner,2,nachos
+13.13,2,Male,No,Sun,Dinner,2,butter tarts
+17.26,2.74,Male,No,Sun,Dinner,3,burritos
+24.55,2,Male,No,Sun,Dinner,4,pizza
+19.77,2,Male,No,Sun,Dinner,4,burger
+29.85,5.14,Female,No,Sun,Dinner,5,nachos
+48.17,5,Male,No,Sun,Dinner,6,butter tarts
+25,3.75,Female,No,Sun,Dinner,4,burritos
+13.39,2.61,Female,No,Sun,Dinner,2,pizza
+16.49,2,Male,No,Sun,Dinner,4,burger
+21.5,3.5,Male,No,Sun,Dinner,4,shawarma
+12.66,2.5,Male,No,Sun,Dinner,2,nachos
+16.21,2,Female,No,Sun,Dinner,3,butter tarts
+13.81,2,Male,No,Sun,Dinner,2,shawarma
+17.51,3,Female,Yes,Sun,Dinner,2,bagel
+24.52,3.48,Male,No,Sun,Dinner,3,poutine
+20.76,2.24,Male,No,Sun,Dinner,2,burger
+31.71,4.5,Male,No,Sun,Dinner,4,shawarma
+10.59,1.61,Female,Yes,Sat,Dinner,2,nachos
+10.63,2,Female,Yes,Sat,Dinner,2,butter tarts
+50.81,10,Male,Yes,Sat,Dinner,3,burritos
+15.81,3.16,Male,Yes,Sat,Dinner,2,pizza
+7.25,5.15,Male,Yes,Sun,Dinner,2,burger
+31.85,3.18,Male,Yes,Sun,Dinner,2,nachos
+16.82,4,Male,Yes,Sun,Dinner,2,butter tarts
+32.9,3.11,Male,Yes,Sun,Dinner,2,burritos
+17.89,2,Male,Yes,Sun,Dinner,2,pizza
+14.48,2,Male,Yes,Sun,Dinner,2,burger
+9.6,4,Female,Yes,Sun,Dinner,2,shawarma
+34.63,3.55,Male,Yes,Sun,Dinner,2,nachos
+34.65,3.68,Male,Yes,Sun,Dinner,4,butter tarts
+23.33,5.65,Male,Yes,Sun,Dinner,2,shawarma
+45.35,3.5,Male,Yes,Sun,Dinner,3,bagel
+23.17,6.5,Male,Yes,Sun,Dinner,4,poutine
+40.55,3,Male,Yes,Sun,Dinner,2,burger
+20.69,5,Male,No,Sun,Dinner,5,shawarma
+20.9,3.5,Female,Yes,Sun,Dinner,3,nachos
+30.46,2,Male,Yes,Sun,Dinner,5,butter tarts
+18.15,3.5,Female,Yes,Sun,Dinner,3,burritos
+23.1,4,Male,Yes,Sun,Dinner,3,pizza
+15.69,1.5,Male,Yes,Sun,Dinner,2,burger
+19.81,4.19,Female,Yes,Thur,Lunch,2,nachos
+28.44,2.56,Male,Yes,Thur,Lunch,2,butter tarts
+15.48,2.02,Male,Yes,Thur,Lunch,2,burritos
+16.58,4,Male,Yes,Thur,Lunch,2,pizza
+7.56,1.44,Male,No,Thur,Lunch,2,burger
+10.34,2,Male,Yes,Thur,Lunch,2,shawarma
+43.11,5,Female,Yes,Thur,Lunch,4,nachos
+13,2,Female,Yes,Thur,Lunch,2,butter tarts
+13.51,2,Male,Yes,Thur,Lunch,2,shawarma
+18.71,4,Male,Yes,Thur,Lunch,3,bagel
+12.74,2.01,Female,Yes,Thur,Lunch,2,poutine
+13,2,Female,Yes,Thur,Lunch,2,burger
+16.4,2.5,Female,Yes,Thur,Lunch,2,shawarma
+20.53,4,Male,Yes,Thur,Lunch,4,nachos
+16.47,3.23,Female,Yes,Thur,Lunch,3,butter tarts
+26.59,3.41,Male,Yes,Sat,Dinner,3,burritos
+38.73,3,Male,Yes,Sat,Dinner,4,pizza
+24.27,2.03,Male,Yes,Sat,Dinner,2,burger
+12.76,2.23,Female,Yes,Sat,Dinner,2,nachos
+30.06,2,Male,Yes,Sat,Dinner,3,butter tarts
+25.89,5.16,Male,Yes,Sat,Dinner,4,burritos
+48.33,9,Male,No,Sat,Dinner,4,pizza
+13.27,2.5,Female,Yes,Sat,Dinner,2,burger
+28.17,6.5,Female,Yes,Sat,Dinner,3,shawarma
+12.9,1.1,Female,Yes,Sat,Dinner,2,nachos
+28.15,3,Male,Yes,Sat,Dinner,5,butter tarts
+11.59,1.5,Male,Yes,Sat,Dinner,2,shawarma
+7.74,1.44,Male,Yes,Sat,Dinner,2,bagel
+30.14,3.09,Female,Yes,Sat,Dinner,4,poutine
+12.16,2.2,Male,Yes,Fri,Lunch,2,burger
+13.42,3.48,Female,Yes,Fri,Lunch,2,shawarma
+8.58,1.92,Male,Yes,Fri,Lunch,1,nachos
+15.98,3,Female,No,Fri,Lunch,3,butter tarts
+13.42,1.58,Male,Yes,Fri,Lunch,2,burritos
+16.27,2.5,Female,Yes,Fri,Lunch,2,pizza
+10.09,2,Female,Yes,Fri,Lunch,2,burger
+20.45,3,Male,No,Sat,Dinner,4,nachos
+13.28,2.72,Male,No,Sat,Dinner,2,butter tarts
+22.12,2.88,Female,Yes,Sat,Dinner,2,burritos
+24.01,2,Male,Yes,Sat,Dinner,4,pizza
+15.69,3,Male,Yes,Sat,Dinner,3,burger
+11.61,3.39,Male,No,Sat,Dinner,2,shawarma
+10.77,1.47,Male,No,Sat,Dinner,2,nachos
+15.53,3,Male,Yes,Sat,Dinner,2,shawarma
+10.07,1.25,Male,No,Sat,Dinner,2,bagel
+12.6,1,Male,Yes,Sat,Dinner,2,poutine
+32.83,1.17,Male,Yes,Sat,Dinner,2,burger
+35.83,4.67,Female,No,Sat,Dinner,3,shawarma
+29.03,5.92,Male,No,Sat,Dinner,3,nachos
+27.18,2,Female,Yes,Sat,Dinner,2,butter tarts
+22.67,2.23,Male,Yes,Sat,Dinner,2,nachos
+17.82,1.75,Male,No,Sat,Dinner,2,butter tarts
+18.78,3,Female,No,Thur,Dinner,2,burritos
+27.28,2.14,Female,Yes,Sat,Dinner,2,burger
+16.5,1.1,Male,No,Sun,Dinner,3,shawarma
+10.54,1.62,Male,No,Sun,Dinner,2,nachos
+22.01,3.8,Male,No,Sun,Dinner,3,shawarma
+23.68,3.31,Male,No,Sun,Dinner,2,pizza
+24.59,3.61,Female,No,Sun,Dinner,4,burger
+25.19,4.75,Male,No,Sun,Dinner,4,shawarma
+8.77,2.01,Male,No,Sun,Dinner,2,nachos
+26.88,3.14,Male,No,Sun,Dinner,4,shawarma
+15.04,1.96,Male,No,Sun,Dinner,2,bagel
+14.75,3.27,Male,No,Sun,Dinner,2,poutine
+10.24,1.72,Male,No,Sun,Dinner,2,burger
+35.26,5.02,Female,No,Sun,Dinner,4,shawarma
+15.42,1.57,Male,No,Sun,Dinner,2,nachos
+18.45,3.03,Male,No,Sun,Dinner,4,butter tarts
+14.83,3.02,Female,No,Sun,Dinner,2,nachos
+21.58,3.92,Male,No,Sun,Dinner,2,butter tarts
+10.33,1.67,Female,No,Sun,Dinner,3,burritos
+16.39,3.75,Male,No,Sun,Dinner,3,burger
+16.95,3.55,Female,No,Sun,Dinner,3,shawarma
+20.55,3.4,Male,No,Sat,Dinner,3,nachos
+17.92,4.08,Male,No,Sat,Dinner,2,shawarma
+20.29,2.75,Female,No,Sat,Dinner,2,pizza
+15.77,2.23,Female,No,Sat,Dinner,2,burger
+39.42,7.58,Male,No,Sat,Dinner,4,shawarma
+19.82,3.18,Male,No,Sat,Dinner,2,nachos
+17.81,2.34,Male,No,Sat,Dinner,4,shawarma
+13.39,2.03,Male,No,Sat,Dinner,2,bagel
+12.69,2,Male,No,Sat,Dinner,2,poutine
+21.7,4.3,Male,No,Sat,Dinner,2,burger
+19.95,3.2,Female,No,Sat,Dinner,2,shawarma
+39.55,6.45,Male,No,Sat,Dinner,4,nachos
+18.35,2.5,Male,No,Sat,Dinner,4,butter tarts
+15.06,3,Female,No,Sat,Dinner,2,nachos
+20.69,2.45,Female,No,Sat,Dinner,4,butter tarts
+17.78,3.27,Male,No,Sat,Dinner,2,burritos
+24.06,3.6,Male,No,Sat,Dinner,3,burger
+16.31,2,Male,No,Sat,Dinner,3,shawarma
+16.93,3.07,Female,No,Sat,Dinner,3,nachos
+18.69,2.31,Male,No,Sat,Dinner,3,shawarma
+31.27,5,Male,No,Sat,Dinner,3,pizza
+16.04,2.24,Male,No,Sat,Dinner,3,burger
+17.46,2.54,Male,No,Sun,Dinner,2,shawarma
+13.94,3.06,Male,No,Sun,Dinner,2,nachos
+9.68,1.32,Male,No,Sun,Dinner,2,shawarma
+30.4,5.6,Male,No,Sun,Dinner,4,bagel
+18.29,3,Male,No,Sun,Dinner,2,poutine
+22.23,5,Male,No,Sun,Dinner,2,burger
+32.4,6,Male,No,Sun,Dinner,4,shawarma
+28.55,2.05,Male,No,Sun,Dinner,3,nachos
+19.04,3.5,Male,No,Sun,Dinner,2,butter tarts
+12.54,2.5,Male,No,Sun,Dinner,2,nachos
+10.29,2.6,Female,No,Sun,Dinner,2,butter tarts
+34.81,5.2,Female,No,Sun,Dinner,4,burritos
+9.94,1.56,Male,No,Sun,Dinner,2,burger
+25.56,4.34,Male,No,Sun,Dinner,4,shawarma
+19.49,3.51,Male,No,Sun,Dinner,2,nachos
+38.01,3,Male,Yes,Sat,Dinner,4,shawarma
+26.41,1.5,Female,No,Sat,Dinner,2,pizza
+11.24,1.76,Male,Yes,Sat,Dinner,2,burger
+48.27,6.73,Male,No,Sat,Dinner,4,shawarma
+20.29,3.21,Male,Yes,Sat,Dinner,2,nachos
+13.85,2.05,Male,Yes,Sat,Dinner,2,shawarma
+11.02,1.98,Male,Yes,Sat,Dinner,2,bagel
+18.29,3.76,Male,Yes,Sat,Dinner,4,poutine
+17.59,2.64,Male,No,Sat,Dinner,3,burger
+20.08,3.15,Male,No,Sat,Dinner,3,shawarma
+16.45,2.47,Female,No,Sat,Dinner,2,nachos
+13.07,2.71,Female,Yes,Sat,Dinner,3,butter tarts
+20.23,2.01,Male,No,Sat,Dinner,2,nachos
+15.01,2.09,Male,Yes,Sat,Dinner,2,butter tarts
+12.02,1.97,Male,No,Sat,Dinner,2,burritos
+17.07,3,Female,No,Sat,Dinner,3,burger
+26.86,3.14,Female,Yes,Sat,Dinner,2,shawarma
+25.28,5,Female,Yes,Sat,Dinner,2,nachos
+14.73,2.2,Female,No,Sat,Dinner,2,shawarma
+10.51,1.25,Male,No,Sat,Dinner,2,pizza
+17.92,3.08,Male,Yes,Sat,Dinner,2,burger
+27.2,4.12,Male,No,Thur,Lunch,4,shawarma
+22.76,3.04,Male,No,Thur,Lunch,3,nachos
+17.29,2.71,Male,No,Thur,Lunch,2,shawarma
+19.44,3,Male,Yes,Thur,Lunch,2,bagel
+16.66,3.4,Male,No,Thur,Lunch,2,poutine
+10.07,1.83,Female,No,Thur,Lunch,1,burger
+32.68,5,Male,Yes,Thur,Lunch,2,shawarma
+15.98,2.03,Male,No,Thur,Lunch,2,nachos
+34.83,5.17,Female,No,Thur,Lunch,4,butter tarts
+13.03,2.22,Male,No,Thur,Lunch,2,nachos
+18.28,4,Male,No,Thur,Lunch,2,butter tarts
+24.71,5.85,Male,No,Thur,Lunch,2,burritos
+21.16,3,Male,No,Thur,Lunch,2,butter tarts
+28.97,3,Male,Yes,Fri,Dinner,2,nachos
+22.49,3.5,Male,No,Fri,Dinner,2,butter tarts
+5.75,1,Female,Yes,Fri,Dinner,2,burritos
+16.32,4.3,Female,Yes,Fri,Dinner,2,burger
+22.75,3.25,Female,No,Fri,Dinner,2,burger
+40.17,4.73,Male,Yes,Fri,Dinner,4,shawarma
+27.28,4,Male,Yes,Fri,Dinner,2,nachos
+12.03,1.5,Male,Yes,Fri,Dinner,2,shawarma
+21.01,3,Male,Yes,Fri,Dinner,2,nachos
+12.46,1.5,Male,No,Fri,Dinner,2,butter tarts
+11.35,2.5,Female,Yes,Fri,Dinner,2,nachos
+25.38,5.32,Female,Yes,Fri,Dinner,4,butter tarts
+44.3,2.5,Female,Yes,Sat,Dinner,3,burritos
+22.42,3.48,Female,Yes,Sat,Dinner,2,burger
+20.92,4.08,Female,No,Sat,Dinner,2,pizza
+15.36,1.64,Male,Yes,Sat,Dinner,2,burger
+20.49,4.06,Male,Yes,Sat,Dinner,2,shawarma
+25.21,4.29,Male,Yes,Sat,Dinner,2,nachos
+18.24,3.76,Male,No,Sat,Dinner,2,shawarma
+14.31,4,Female,Yes,Sat,Dinner,2,bagel
+14.55,3.11,Male,No,Sat,Dinner,2,poutine
+7.25,1.23,Female,No,Sat,Dinner,1,burger
+38.07,4.12,Male,No,Sun,Dinner,3,shawarma
+23.95,2.55,Male,No,Sun,Dinner,2,nachos
+25.71,3.98,Female,No,Sun,Dinner,3,butter tarts
+17.31,3.5,Female,No,Sun,Dinner,2,nachos
+29.93,5.07,Male,No,Sun,Dinner,4,butter tarts
+10.65,1.5,Female,No,Thur,Lunch,2,burritos
+12.43,1.8,Female,No,Thur,Lunch,2,butter tarts
+24.08,2.92,Female,No,Thur,Lunch,4,nachos
+11.69,2.31,Male,No,Thur,Lunch,2,butter tarts
+13.42,1.68,Female,No,Thur,Lunch,2,burritos
+14.26,2.5,Male,No,Thur,Lunch,2,burger
+15.95,2,Male,No,Thur,Lunch,2,burger
+12.48,2.52,Female,No,Thur,Lunch,2,shawarma
+29.8,4.2,Female,No,Thur,Lunch,6,nachos
+8.52,1.48,Male,No,Thur,Lunch,2,shawarma
+14.52,2,Female,No,Thur,Lunch,2,nachos
+11.38,2,Female,No,Thur,Lunch,2,butter tarts
+22.82,2.18,Male,No,Thur,Lunch,3,nachos
+19.08,1.5,Male,No,Thur,Lunch,2,butter tarts
+20.27,2.83,Female,No,Thur,Lunch,2,burritos
+11.17,1.5,Female,No,Thur,Lunch,2,burger
+12.26,2,Female,No,Thur,Lunch,2,pizza
+18.26,3.25,Female,No,Thur,Lunch,2,burger
+8.51,1.25,Female,No,Thur,Lunch,2,shawarma
+10.33,2,Female,No,Thur,Lunch,2,nachos
+35.56,6.25,Female,No,Thur,Lunch,5,shawarma
+16,2,Male,Yes,Thur,Lunch,2,bagel
+13.16,2.75,Female,No,Thur,Lunch,2,poutine
+17.47,3.5,Female,No,Thur,Lunch,2,burger
+34.3,6.7,Male,No,Thur,Lunch,6,shawarma
+41.19,5,Male,No,Thur,Lunch,5,nachos
+27.05,5,Female,No,Thur,Lunch,6,butter tarts
+16.43,2.3,Female,No,Thur,Lunch,2,nachos
+8.35,1.5,Female,No,Thur,Lunch,2,butter tarts
+18.64,1.36,Female,No,Thur,Lunch,3,burritos
+11.87,1.63,Female,No,Thur,Lunch,2,butter tarts
+9.78,1.73,Male,No,Thur,Lunch,2,nachos
+7.51,2,Male,No,Thur,Lunch,2,butter tarts
+14.07,2.5,Male,No,Sun,Dinner,2,burritos
+13.13,2,Male,No,Sun,Dinner,2,burger
+17.26,2.74,Male,No,Sun,Dinner,3,burger
+24.55,2,Male,No,Sun,Dinner,4,shawarma
+19.77,2,Male,No,Sun,Dinner,4,nachos
+29.85,5.14,Female,No,Sun,Dinner,5,shawarma
+48.17,5,Male,No,Sun,Dinner,6,nachos
+25,3.75,Female,No,Sun,Dinner,4,butter tarts
+13.39,2.61,Female,No,Sun,Dinner,2,nachos
+16.49,2,Male,No,Sun,Dinner,4,butter tarts
+21.5,3.5,Male,No,Sun,Dinner,4,burritos
+12.66,2.5,Male,No,Sun,Dinner,2,burger
+16.21,2,Female,No,Sun,Dinner,3,pizza
+13.81,2,Male,No,Sun,Dinner,2,burger
+17.51,3,Female,Yes,Sun,Dinner,2,shawarma
+24.52,3.48,Male,No,Sun,Dinner,3,nachos
+20.76,2.24,Male,No,Sun,Dinner,2,shawarma
+31.71,4.5,Male,No,Sun,Dinner,4,bagel
+10.59,1.61,Female,Yes,Sat,Dinner,2,poutine
+40.15,8.12,Female,Yes,Sat,Dinner,4,burger
+50.81,10,Male,Yes,Sat,Dinner,3,shawarma
+15.81,3.16,Male,Yes,Sat,Dinner,2,nachos
+7.25,5.15,Male,Yes,Sun,Dinner,2,butter tarts
+31.85,3.18,Male,Yes,Sun,Dinner,2,nachos
+16.82,4,Male,Yes,Sun,Dinner,2,butter tarts
+32.9,3.11,Male,Yes,Sun,Dinner,2,burritos
+17.89,1.99,Male,Yes,Sun,Dinner,2,butter tarts
+14.48,2.02,Male,Yes,Sun,Dinner,2,nachos
+9.6,4,Female,Yes,Sun,Dinner,2,butter tarts
+34.63,3.55,Male,Yes,Sun,Dinner,2,burritos
+34.65,3.68,Male,Yes,Sun,Dinner,4,nachos
+23.33,5.65,Male,Yes,Sun,Dinner,2,burger
+45.35,3.5,Male,Yes,Sun,Dinner,3,shawarma
+23.17,6.5,Male,Yes,Sun,Dinner,4,burger
+40.55,3,Male,Yes,Sun,Dinner,2,shawarma
+20.69,5,Male,No,Sun,Dinner,5,nachos
+20.9,3.5,Female,Yes,Sun,Dinner,3,butter tarts
+30.46,2,Male,Yes,Sun,Dinner,5,nachos
+18.15,3.5,Female,Yes,Sun,Dinner,3,burritos
+23.1,4,Male,Yes,Sun,Dinner,3,burger
+15.69,1.5,Male,Yes,Sun,Dinner,2,pizza
+19.81,4.19,Female,Yes,Thur,Lunch,2,shawarma
+28.44,2.56,Male,Yes,Thur,Lunch,2,butter tarts
+15.48,2.02,Male,Yes,Thur,Lunch,2,nachos
+16.58,4,Male,Yes,Thur,Lunch,2,butter tarts
+7.56,1.44,Male,No,Thur,Lunch,2,burritos
+10.34,2,Male,Yes,Thur,Lunch,2,nachos
+43.11,5,Female,Yes,Thur,Lunch,4,burger
+13,2,Female,Yes,Thur,Lunch,2,shawarma
+13.51,2,Male,Yes,Thur,Lunch,2,burger
+18.71,4,Male,Yes,Thur,Lunch,3,shawarma
+12.74,2.01,Female,Yes,Thur,Lunch,2,nachos
+13,2,Female,Yes,Thur,Lunch,2,butter tarts
+16.4,2.5,Female,Yes,Thur,Lunch,2,nachos
+20.53,4,Male,Yes,Thur,Lunch,4,burritos
+16.47,3.23,Female,Yes,Thur,Lunch,3,burger
+26.59,3.41,Male,Yes,Sat,Dinner,3,pizza
+38.73,3,Male,Yes,Sat,Dinner,4,shawarma
+24.27,2.03,Male,Yes,Sat,Dinner,2,butter tarts
+12.76,2.23,Female,Yes,Sat,Dinner,2,nachos
+30.06,2,Male,Yes,Sat,Dinner,3,butter tarts
+25.89,5.16,Male,Yes,Sat,Dinner,4,burritos
+48.33,9,Male,No,Sat,Dinner,4,nachos
+13.27,2.5,Female,Yes,Sat,Dinner,2,burger
+28.17,6.5,Female,Yes,Sat,Dinner,3,shawarma
+12.9,1.1,Female,Yes,Sat,Dinner,2,burger
+28.15,3,Male,Yes,Sat,Dinner,5,shawarma
+11.59,1.5,Male,Yes,Sat,Dinner,2,nachos
+7.74,1.44,Male,Yes,Sat,Dinner,2,butter tarts
+30.14,3.09,Female,Yes,Sat,Dinner,4,nachos
+12.16,2.2,Male,Yes,Fri,Lunch,2,burritos
+13.42,3.48,Female,Yes,Fri,Lunch,2,burger
+8.58,1.92,Male,Yes,Fri,Lunch,1,pizza
+15.98,3,Female,No,Fri,Lunch,3,shawarma
+13.42,1.58,Male,Yes,Fri,Lunch,2,butter tarts
+16.27,2.5,Female,Yes,Fri,Lunch,2,nachos
+10.09,2,Female,Yes,Fri,Lunch,2,butter tarts
+20.45,3,Male,No,Sat,Dinner,4,burritos
+13.28,2.72,Male,No,Sat,Dinner,2,nachos
+22.12,2.88,Female,Yes,Sat,Dinner,2,burger
+24.01,2,Male,Yes,Sat,Dinner,4,shawarma
+15.69,3,Male,Yes,Sat,Dinner,3,burger
+11.61,3.39,Male,No,Sat,Dinner,2,shawarma
+10.77,1.47,Male,No,Sat,Dinner,2,nachos
+15.53,3,Male,Yes,Sat,Dinner,2,butter tarts
+10.07,1.25,Male,No,Sat,Dinner,2,nachos
+12.6,1,Male,Yes,Sat,Dinner,2,burritos
+32.83,1.17,Male,Yes,Sat,Dinner,2,burger
+35.83,4.67,Female,No,Sat,Dinner,3,pizza
+29.03,5.92,Male,No,Sat,Dinner,3,shawarma
+27.18,2,Female,Yes,Sat,Dinner,2,butter tarts
+22.67,2,Male,Yes,Sat,Dinner,2,nachos
+17.82,1.75,Male,No,Sat,Dinner,2,butter tarts
+18.78,3,Female,No,Thur,Dinner,2,burritos
+25.81,3.98,Female,No,Sun,Dinner,4,nachos
+16.99,1.01,Female,No,Sun,Dinner,2,burger
+10.34,1.66,Male,No,Sun,Dinner,3,shawarma
+21.01,3.5,Male,No,Sun,Dinner,3,burger
+23.68,3.31,Male,No,Sun,Dinner,2,shawarma
+24.59,3.61,Female,No,Sun,Dinner,4,nachos
+25.29,4.71,Male,No,Sun,Dinner,4,butter tarts
+8.77,2,Male,No,Sun,Dinner,2,nachos
+26.88,3.12,Male,No,Sun,Dinner,4,burritos
+15.04,1.96,Male,No,Sun,Dinner,2,burger
+14.78,3.23,Male,No,Sun,Dinner,2,pizza
+10.27,1.71,Male,No,Sun,Dinner,2,shawarma
+35.26,5,Female,No,Sun,Dinner,4,butter tarts
+15.42,1.57,Male,No,Sun,Dinner,2,nachos
+18.43,3,Male,No,Sun,Dinner,4,butter tarts
+14.83,3.02,Female,No,Sun,Dinner,2,burritos
+21.58,3.92,Male,No,Sun,Dinner,2,nachos
+11.56,1.87,Female,No,Sun,Dinner,3,burger
+16.29,3.71,Male,No,Sun,Dinner,3,shawarma
+16.97,3.5,Female,No,Sun,Dinner,3,burger
+20.65,3.35,Male,No,Sat,Dinner,3,shawarma
+17.92,4.08,Male,No,Sat,Dinner,2,nachos
+20.29,2.75,Female,No,Sat,Dinner,2,butter tarts
+15.77,2.23,Female,No,Sat,Dinner,2,nachos
+39.42,7.58,Male,No,Sat,Dinner,4,burritos
+19.82,3.18,Male,No,Sat,Dinner,2,burger
+17.81,2.34,Male,No,Sat,Dinner,4,pizza
+13.12,1.87,Male,No,Sat,Dinner,2,shawarma
+12.69,1.97,Male,No,Sat,Dinner,2,butter tarts
+21.7,4.3,Male,No,Sat,Dinner,2,nachos
+19.65,3,Female,No,Sat,Dinner,2,butter tarts
+9.55,1.45,Male,No,Sat,Dinner,2,burritos
+18.35,2.5,Male,No,Sat,Dinner,4,nachos
+15.06,3,Female,No,Sat,Dinner,2,burger
+20.69,2.45,Female,No,Sat,Dinner,4,shawarma
+17.78,3.27,Male,No,Sat,Dinner,2,burger
+24.06,3.6,Male,No,Sat,Dinner,3,shawarma
+16.31,2,Male,No,Sat,Dinner,3,nachos
+16.93,3.07,Female,No,Sat,Dinner,3,butter tarts
+18.69,2.31,Male,No,Sat,Dinner,3,nachos
+31.27,5,Male,No,Sat,Dinner,3,burritos
+16.04,2.24,Male,No,Sat,Dinner,3,burger
+17.46,2.54,Male,No,Sun,Dinner,2,pizza
+13.94,3.06,Male,No,Sun,Dinner,2,shawarma
+9.68,1.32,Male,No,Sun,Dinner,2,butter tarts
+30.4,5.6,Male,No,Sun,Dinner,4,nachos
+17.5,2.5,Male,No,Sun,Dinner,2,butter tarts
+22.23,4.9,Male,No,Sun,Dinner,2,burritos
+32.4,6.1,Male,No,Sun,Dinner,4,nachos
+28.55,2.05,Male,No,Sun,Dinner,3,burger
+18.04,3,Male,No,Sun,Dinner,2,shawarma
+12.54,2.5,Male,No,Sun,Dinner,2,burger
+10.29,2.6,Female,No,Sun,Dinner,2,shawarma
+34.81,5.2,Female,No,Sun,Dinner,4,nachos
+9.94,1.56,Male,No,Sun,Dinner,2,butter tarts
+25.56,4.34,Male,No,Sun,Dinner,4,nachos
+19.49,3.51,Male,No,Sun,Dinner,2,burritos
+38.01,3,Male,Yes,Sat,Dinner,4,burger
+26.41,1.5,Female,No,Sat,Dinner,2,pizza
+11.24,1.76,Male,Yes,Sat,Dinner,2,shawarma
+48.27,6.73,Male,No,Sat,Dinner,4,butter tarts
+20.29,3.21,Male,Yes,Sat,Dinner,2,nachos
+13.81,2,Male,Yes,Sat,Dinner,2,butter tarts
+11.02,1.98,Male,Yes,Sat,Dinner,2,burritos
+18.29,3.76,Male,Yes,Sat,Dinner,4,nachos
+17.59,2.64,Male,No,Sat,Dinner,3,burger
+20.08,3.15,Male,No,Sat,Dinner,3,shawarma
+16.45,2.47,Female,No,Sat,Dinner,2,burger
+3.07,1,Female,Yes,Sat,Dinner,1,shawarma
+20.23,2.01,Male,No,Sat,Dinner,2,nachos
+15.01,2.09,Male,Yes,Sat,Dinner,2,butter tarts
+12.02,1.97,Male,No,Sat,Dinner,2,nachos
+17.07,3,Female,No,Sat,Dinner,3,burritos
+26.86,3.14,Female,Yes,Sat,Dinner,2,burger
+25.28,5,Female,Yes,Sat,Dinner,2,pizza
+14.73,2.2,Female,No,Sat,Dinner,2,shawarma
+10.51,1.25,Male,No,Sat,Dinner,2,butter tarts
+17.92,3.08,Male,Yes,Sat,Dinner,2,nachos
+27.2,4,Male,No,Thur,Lunch,4,butter tarts
+22.76,3,Male,No,Thur,Lunch,2,burritos
+17.29,2.71,Male,No,Thur,Lunch,2,nachos
+19.44,3,Male,Yes,Thur,Lunch,2,burger
+16.66,3.4,Male,No,Thur,Lunch,2,shawarma
+10.07,1.83,Female,No,Thur,Lunch,1,burritos
+32.68,5,Male,Yes,Thur,Lunch,2,burger
+15.98,2.03,Male,No,Thur,Lunch,2,pizza
+34.83,5.17,Female,No,Thur,Lunch,4,shawarma
+13.03,2,Male,No,Thur,Lunch,2,butter tarts
+18.28,4,Male,No,Thur,Lunch,2,nachos
+24.71,5.85,Male,No,Thur,Lunch,2,burritos
+21.16,3,Male,No,Thur,Lunch,2,butter tarts
+28.97,3,Male,Yes,Fri,Dinner,2,nachos
+22.49,3.5,Male,No,Fri,Dinner,2,butter tarts
+5.75,1,Female,Yes,Fri,Dinner,2,burritos
+16.32,4.3,Female,Yes,Fri,Dinner,2,nachos
+22.75,3.25,Female,No,Fri,Dinner,2,shawarma
+40.17,4.73,Male,Yes,Fri,Dinner,4,butter tarts
+27.28,4,Male,Yes,Fri,Dinner,2,nachos
+12.03,1.5,Male,Yes,Fri,Dinner,2,pizza
+21.01,3,Male,Yes,Fri,Dinner,2,shawarma
+12.46,1.5,Male,No,Fri,Dinner,2,butter tarts
+11.35,2.5,Female,Yes,Fri,Dinner,2,nachos
+15.38,3,Female,Yes,Fri,Dinner,2,butter tarts
+44.3,2.5,Female,Yes,Sat,Dinner,3,nachos
+22.42,3.48,Female,Yes,Sat,Dinner,2,butter tarts
+20.92,4.08,Female,No,Sat,Dinner,2,burritos
+15.36,1.64,Male,Yes,Sat,Dinner,2,nachos
+20.49,4.06,Male,Yes,Sat,Dinner,2,burger
+25.21,4.29,Male,Yes,Sat,Dinner,2,shawarma
+18.24,3.76,Male,No,Sat,Dinner,2,burritos
+14.31,4,Female,Yes,Sat,Dinner,2,burger
+15.45,3.84,Male,No,Sat,Dinner,2,pizza
+8.23,1.26,Female,No,Sat,Dinner,1,shawarma
+38.07,4,Male,No,Sun,Dinner,3,butter tarts
+23.95,2.55,Male,No,Sun,Dinner,2,nachos
+25.71,4,Female,No,Sun,Dinner,3,burritos
+17.31,3.5,Female,No,Sun,Dinner,2,butter tarts
+29.93,5.07,Male,No,Sun,Dinner,4,nachos
+10.65,1.5,Female,No,Thur,Lunch,2,butter tarts
+12.43,1.8,Female,No,Thur,Lunch,2,burritos
+24.08,2.92,Female,No,Thur,Lunch,4,nachos
+11.69,2.31,Male,No,Thur,Lunch,2,shawarma
+13.42,1.68,Female,No,Thur,Lunch,2,butter tarts
+14.26,2.5,Male,No,Thur,Lunch,2,nachos
+15.95,2,Male,No,Thur,Lunch,2,pizza
+12.48,2.52,Female,No,Thur,Lunch,2,shawarma
+29.8,4.2,Female,No,Thur,Lunch,6,butter tarts
+8.52,1.48,Male,No,Thur,Lunch,2,nachos
+14.52,2,Female,No,Thur,Lunch,2,butter tarts
+11.38,2.14,Female,No,Thur,Lunch,2,nachos
+22.82,2.18,Male,No,Thur,Lunch,3,butter tarts
+19.08,1.5,Male,No,Thur,Lunch,2,burritos
+20.27,2.83,Female,No,Thur,Lunch,2,nachos
+11.17,1.5,Female,No,Thur,Lunch,2,burger
+12.26,2,Female,No,Thur,Lunch,2,shawarma
+18.26,3.25,Female,No,Thur,Lunch,2,burritos
+8.51,1.25,Female,No,Thur,Lunch,2,burger
+10.33,2,Female,No,Thur,Lunch,2,pizza
+15.45,2.6,Female,No,Thur,Lunch,2,shawarma
+16.23,2.13,Male,Yes,Thur,Lunch,2,butter tarts
+13.16,2.75,Female,No,Thur,Lunch,2,nachos
+17.47,3.5,Female,No,Thur,Lunch,2,burritos
+34.3,6.7,Male,No,Thur,Lunch,6,butter tarts
+41.19,5,Male,No,Thur,Lunch,5,nachos
+27.05,5.09,Female,No,Thur,Lunch,6,butter tarts
+16.43,2.3,Female,No,Thur,Lunch,2,burritos
+8.35,1.5,Female,No,Thur,Lunch,2,nachos
+18.64,1.36,Female,No,Thur,Lunch,3,shawarma
+11.87,1.63,Female,No,Thur,Lunch,2,butter tarts
+9.78,1.73,Male,No,Thur,Lunch,2,nachos
+7.51,2,Male,No,Thur,Lunch,2,pizza
+14.07,2.5,Male,No,Sun,Dinner,2,shawarma
+13.13,2,Male,No,Sun,Dinner,2,butter tarts
+17.26,2.74,Male,No,Sun,Dinner,3,nachos
+24.55,2,Male,No,Sun,Dinner,4,butter tarts
+19.77,2,Male,No,Sun,Dinner,4,nachos
+29.85,5.14,Female,No,Sun,Dinner,5,butter tarts
+48.17,5,Male,No,Sun,Dinner,6,burritos
+25,3.75,Female,No,Sun,Dinner,4,nachos
+13.39,2.61,Female,No,Sun,Dinner,2,burger
+16.49,2,Male,No,Sun,Dinner,4,shawarma
+21.5,3.5,Male,No,Sun,Dinner,4,burritos
+12.66,2.5,Male,No,Sun,Dinner,2,burger
+16.21,2,Female,No,Sun,Dinner,3,pizza
+13.81,1.95,Male,No,Sun,Dinner,2,shawarma
+16.98,2.75,Female,Yes,Sun,Dinner,2,butter tarts
+24.52,3.48,Male,No,Sun,Dinner,3,nachos
+20.76,2.24,Male,No,Sun,Dinner,2,burritos
+31.71,4.5,Male,No,Sun,Dinner,4,butter tarts
+10.59,1.61,Female,Yes,Sat,Dinner,2,nachos
+10.63,2,Female,Yes,Sat,Dinner,2,butter tarts
+50.81,10,Male,Yes,Sat,Dinner,3,burritos
+15.81,3.16,Male,Yes,Sat,Dinner,2,nachos
+7.25,5.15,Male,Yes,Sun,Dinner,2,shawarma
+31.85,3.18,Male,Yes,Sun,Dinner,2,butter tarts
+16.82,4,Male,Yes,Sun,Dinner,2,nachos
+32.9,3.11,Male,Yes,Sun,Dinner,2,pizza
+17.89,2,Male,Yes,Sun,Dinner,2,shawarma
+14.48,2,Male,Yes,Sun,Dinner,2,butter tarts
+39.87,9.56,Female,Yes,Sun,Dinner,4,nachos
+34.63,3.55,Male,Yes,Sun,Dinner,2,butter tarts
+34.65,3.68,Male,Yes,Sun,Dinner,4,nachos
+23.33,5.65,Male,Yes,Sun,Dinner,2,butter tarts
+45.35,3.5,Male,Yes,Sun,Dinner,3,burritos
+23.17,6.5,Male,Yes,Sun,Dinner,4,nachos
+40.55,3,Male,Yes,Sun,Dinner,2,burger
+20.69,5,Male,No,Sun,Dinner,5,shawarma
+20.9,3.5,Female,Yes,Sun,Dinner,3,burritos
+30.46,2,Male,Yes,Sun,Dinner,5,burger
+18.15,3.5,Female,Yes,Sun,Dinner,3,pizza
+23.1,4,Male,Yes,Sun,Dinner,3,shawarma
+15.69,1.5,Male,Yes,Sun,Dinner,2,butter tarts
+19.81,4.19,Female,Yes,Thur,Lunch,2,nachos
+28.44,2.56,Male,Yes,Thur,Lunch,2,burritos
+15.48,2.02,Male,Yes,Thur,Lunch,2,butter tarts
+16.58,4,Male,Yes,Thur,Lunch,2,nachos
+7.56,1.44,Male,No,Thur,Lunch,2,butter tarts
+10.34,2,Male,Yes,Thur,Lunch,2,burritos
+43.11,4.95,Female,Yes,Thur,Lunch,4,nachos
+13,2,Female,Yes,Thur,Lunch,2,shawarma
+13.51,2,Male,Yes,Thur,Lunch,2,butter tarts
+18.71,4,Male,Yes,Thur,Lunch,3,nachos
+12.74,2.01,Female,Yes,Thur,Lunch,2,pizza
+13,2,Female,Yes,Thur,Lunch,2,shawarma
+16.4,2.5,Female,Yes,Thur,Lunch,2,butter tarts
+20.53,4,Male,Yes,Thur,Lunch,4,nachos
+16.47,3.23,Female,Yes,Thur,Lunch,3,butter tarts
+26.59,3.41,Male,Yes,Sat,Dinner,3,nachos
+38.73,3,Male,Yes,Sat,Dinner,4,butter tarts
+24.27,2.03,Male,Yes,Sat,Dinner,2,burritos
+12.76,2.23,Female,Yes,Sat,Dinner,2,nachos
+30.06,2,Male,Yes,Sat,Dinner,3,burger
+25.89,5.16,Male,Yes,Sat,Dinner,4,shawarma
+48.33,9,Male,No,Sat,Dinner,4,burritos
+13.27,2.5,Female,Yes,Sat,Dinner,2,burger
+28.17,6.5,Female,Yes,Sat,Dinner,3,pizza
+12.9,1.1,Female,Yes,Sat,Dinner,2,shawarma
+28.15,3,Male,Yes,Sat,Dinner,5,butter tarts
+11.59,1.5,Male,Yes,Sat,Dinner,2,nachos
+7.74,1.44,Male,Yes,Sat,Dinner,2,burritos
+30.14,3.09,Female,Yes,Sat,Dinner,4,butter tarts
+12.16,2.2,Male,Yes,Fri,Lunch,2,nachos
+13.42,3.48,Female,Yes,Fri,Lunch,2,butter tarts
+8.58,1.92,Male,Yes,Fri,Lunch,1,burritos
+15.98,3,Female,No,Fri,Lunch,3,nachos
+13.42,1.58,Male,Yes,Fri,Lunch,2,shawarma
+16.27,2.5,Female,Yes,Fri,Lunch,2,butter tarts
+10.09,2,Female,Yes,Fri,Lunch,2,nachos
+20.45,3,Male,No,Sat,Dinner,4,pizza
+13.28,2.72,Male,No,Sat,Dinner,2,shawarma
+22.12,2.88,Female,Yes,Sat,Dinner,2,butter tarts
+24.01,2,Male,Yes,Sat,Dinner,4,nachos
+15.69,3,Male,Yes,Sat,Dinner,3,butter tarts
+11.61,3.39,Male,No,Sat,Dinner,2,nachos
+10.77,1.47,Male,No,Sat,Dinner,2,butter tarts
+15.53,3,Male,Yes,Sat,Dinner,2,burritos
+10.07,1.25,Male,No,Sat,Dinner,2,nachos
+12.6,1,Male,Yes,Sat,Dinner,2,burger
+32.83,1.17,Male,Yes,Sat,Dinner,2,shawarma
+35.83,4.67,Female,No,Sat,Dinner,3,burritos
+29.03,5.92,Male,No,Sat,Dinner,3,burger
+27.18,2,Female,Yes,Sat,Dinner,2,pizza
+22.67,2,Male,Yes,Sat,Dinner,2,shawarma
+17.82,1.75,Male,No,Sat,Dinner,2,butter tarts
+18.78,3,Female,No,Thur,Dinner,2,nachos
+17.01,2.1,Male,No,Sun,Dinner,3,burritos
+16.99,1.01,Female,No,Sun,Dinner,2,butter tarts
+10.34,1.66,Male,No,Sun,Dinner,3,nachos
+21.01,3.5,Male,No,Sun,Dinner,3,butter tarts
+23.68,3.31,Male,No,Sun,Dinner,2,burritos
+24.59,3.61,Female,No,Sun,Dinner,4,nachos
+25.29,4.71,Male,No,Sun,Dinner,4,shawarma
+8.77,2,Male,No,Sun,Dinner,2,butter tarts
+26.88,3.12,Male,No,Sun,Dinner,4,nachos
+15.04,1.96,Male,No,Sun,Dinner,2,pizza
+14.78,3.23,Male,No,Sun,Dinner,2,shawarma
+10.27,1.71,Male,No,Sun,Dinner,2,butter tarts
+35.26,5,Female,No,Sun,Dinner,4,nachos
+15.42,1.57,Male,No,Sun,Dinner,2,butter tarts
+18.43,3,Male,No,Sun,Dinner,4,nachos
+14.83,3.02,Female,No,Sun,Dinner,2,butter tarts
+21.58,3.92,Male,No,Sun,Dinner,2,burritos
+10.33,1.67,Female,No,Sun,Dinner,3,nachos
+16.29,3.71,Male,No,Sun,Dinner,3,burger
+16.97,3.5,Female,No,Sun,Dinner,3,shawarma
+20.65,3.35,Male,No,Sat,Dinner,3,burritos
+17.92,4.08,Male,No,Sat,Dinner,2,burger
+20.29,2.75,Female,No,Sat,Dinner,2,pizza
+15.77,2.23,Female,No,Sat,Dinner,2,shawarma
+39.42,7.58,Male,No,Sat,Dinner,4,butter tarts
+19.82,3.18,Male,No,Sat,Dinner,2,nachos
+17.81,2.34,Male,No,Sat,Dinner,4,burritos
+13.37,2,Male,No,Sat,Dinner,2,butter tarts
+12.69,2.98,Male,No,Sat,Dinner,2,nachos
+21.7,4.3,Male,No,Sat,Dinner,2,butter tarts
+19.65,3,Female,No,Sat,Dinner,2,burritos
+9.55,1.45,Male,No,Sat,Dinner,2,nachos
+18.35,2.5,Male,No,Sat,Dinner,4,shawarma
+15.06,3,Female,No,Sat,Dinner,2,butter tarts
+20.69,2.45,Female,No,Sat,Dinner,4,nachos
+17.78,3.27,Male,No,Sat,Dinner,2,pizza
+24.06,3.6,Male,No,Sat,Dinner,3,shawarma
+16.31,2,Male,No,Sat,Dinner,3,butter tarts
+16.93,3.07,Female,No,Sat,Dinner,3,nachos
+18.69,2.31,Male,No,Sat,Dinner,3,butter tarts
+31.27,5,Male,No,Sat,Dinner,3,nachos
+16.04,2.24,Male,No,Sat,Dinner,3,butter tarts
+17.46,2.54,Male,No,Sun,Dinner,2,burritos
+13.94,3.06,Male,No,Sun,Dinner,2,nachos
+9.68,1.32,Male,No,Sun,Dinner,2,burger
+30.4,5.6,Male,No,Sun,Dinner,4,shawarma
+18.29,3,Male,No,Sun,Dinner,2,burritos
+22.23,4.5,Male,No,Sun,Dinner,2,burger
+32.4,6,Male,No,Sun,Dinner,4,pizza
+28.55,2.05,Male,No,Sun,Dinner,3,shawarma
+18.04,3,Male,No,Sun,Dinner,2,butter tarts
+12.54,2.5,Male,No,Sun,Dinner,2,nachos
+10.29,2.6,Female,No,Sun,Dinner,2,burritos
+34.81,5.2,Female,No,Sun,Dinner,4,butter tarts
+9.94,1.56,Male,No,Sun,Dinner,2,nachos
+25.56,4.34,Male,No,Sun,Dinner,4,butter tarts
+19.49,3.51,Male,No,Sun,Dinner,2,burritos
+38.01,3,Male,Yes,Sat,Dinner,4,nachos
+26.41,1.5,Female,No,Sat,Dinner,2,shawarma
+11.24,1.76,Male,Yes,Sat,Dinner,2,butter tarts
+48.27,6.73,Male,No,Sat,Dinner,4,nachos
+20.29,3.21,Male,Yes,Sat,Dinner,2,pizza
+13.81,2,Male,Yes,Sat,Dinner,2,shawarma
+11.02,1.98,Male,Yes,Sat,Dinner,2,butter tarts
+18.29,3.76,Male,Yes,Sat,Dinner,4,nachos
+17.59,2.64,Male,No,Sat,Dinner,3,butter tarts
+20.08,3.15,Male,No,Sat,Dinner,3,nachos
+16.45,2.47,Female,No,Sat,Dinner,2,butter tarts
+3.07,1,Female,Yes,Sat,Dinner,1,burritos
+20.23,2.01,Male,No,Sat,Dinner,2,nachos
+15.01,2.09,Male,Yes,Sat,Dinner,2,burger
+12.02,1.97,Male,No,Sat,Dinner,2,shawarma
+17.07,3,Female,No,Sat,Dinner,3,burritos
+26.86,3.14,Female,Yes,Sat,Dinner,2,burger
+25.28,5,Female,Yes,Sat,Dinner,2,pizza
+14.73,2.2,Female,No,Sat,Dinner,2,shawarma
+10.51,1.25,Male,No,Sat,Dinner,2,butter tarts
+17.92,3.08,Male,Yes,Sat,Dinner,2,nachos
+27.2,4,Male,No,Thur,Lunch,4,burritos
+22.76,3,Male,No,Thur,Lunch,2,butter tarts
+17.29,2.71,Male,No,Thur,Lunch,2,pizza
+19.44,3,Male,Yes,Thur,Lunch,2,shawarma
+16.66,3.4,Male,No,Thur,Lunch,2,burger
+10.07,1.83,Female,No,Thur,Lunch,1,burritos
+32.68,5,Male,Yes,Thur,Lunch,2,burger
+15.98,2.03,Male,No,Thur,Lunch,2,shawarma
+34.83,5.17,Female,No,Thur,Lunch,4,pizza
+13.03,2,Male,No,Thur,Lunch,2,burritos
+18.28,3.85,Male,No,Thur,Lunch,2,pizza
+24.71,5.85,Male,No,Thur,Lunch,2,shawarma
+21.16,2.89,Male,No,Thur,Lunch,2,butter tarts
+28.97,3,Male,Yes,Fri,Dinner,2,nachos
+22.49,3.5,Male,No,Fri,Dinner,2,burritos
+5.75,1,Female,Yes,Fri,Dinner,2,butter tarts
+16.32,4.3,Female,Yes,Fri,Dinner,2,burritos
+22.75,3.25,Female,No,Fri,Dinner,2,burger
+40.17,4.73,Male,Yes,Fri,Dinner,4,shawarma
+27.28,4,Male,Yes,Fri,Dinner,2,burritos
+12.03,1.5,Male,Yes,Fri,Dinner,2,burger
+21.01,3,Male,Yes,Fri,Dinner,2,pizza
+12.46,1.5,Male,No,Fri,Dinner,2,nachos
+11.35,2.5,Female,Yes,Fri,Dinner,2,burger
+15.38,3,Female,Yes,Fri,Dinner,2,shawarma
+44.3,2.5,Female,Yes,Sat,Dinner,3,burritos
+22.42,3.48,Female,Yes,Sat,Dinner,2,burger
+20.92,4.08,Female,No,Sat,Dinner,2,pizza
+15.36,1.64,Male,Yes,Sat,Dinner,2,shawarma
+20.49,4.06,Male,Yes,Sat,Dinner,2,butter tarts
+25.21,4.29,Male,Yes,Sat,Dinner,2,nachos
+18.24,3.76,Male,No,Sat,Dinner,2,burritos
+14.31,4,Female,Yes,Sat,Dinner,2,butter tarts
+14,3,Male,No,Sat,Dinner,2,pizza
+7.25,1,Female,No,Sat,Dinner,1,shawarma
+38.07,4,Male,No,Sun,Dinner,3,burger
+23.95,2.55,Male,No,Sun,Dinner,2,burritos
+25.71,4,Female,No,Sun,Dinner,3,burger
+17.31,3.5,Female,No,Sun,Dinner,2,shawarma
+29.93,5.07,Male,No,Sun,Dinner,4,pizza
+10.65,1.5,Female,No,Thur,Lunch,2,burritos
+12.43,1.8,Female,No,Thur,Lunch,2,pizza
+24.08,2.92,Female,No,Thur,Lunch,4,shawarma
+11.69,2.31,Male,No,Thur,Lunch,2,butter tarts
+13.42,1.68,Female,No,Thur,Lunch,2,nachos
+14.26,2.5,Male,No,Thur,Lunch,2,burritos
+15.95,2,Male,No,Thur,Lunch,2,butter tarts
+12.48,2.52,Female,No,Thur,Lunch,2,burritos
+29.8,4.2,Female,No,Thur,Lunch,6,burger
+8.52,1.48,Male,No,Thur,Lunch,2,shawarma
+14.52,2,Female,No,Thur,Lunch,2,burritos
+11.38,2,Female,No,Thur,Lunch,2,burger
+22.82,2.18,Male,No,Thur,Lunch,3,pizza
+19.08,1.5,Male,No,Thur,Lunch,2,nachos
+20.27,2.83,Female,No,Thur,Lunch,2,burger
+11.17,1.5,Female,No,Thur,Lunch,2,shawarma
+12.26,2,Female,No,Thur,Lunch,2,burritos
+18.26,3.25,Female,No,Thur,Lunch,2,burger
+8.51,1.25,Female,No,Thur,Lunch,2,pizza
+10.33,2,Female,No,Thur,Lunch,2,shawarma
+14.15,2,Female,No,Thur,Lunch,2,butter tarts
+16,2,Male,Yes,Thur,Lunch,2,nachos
+13.16,2.75,Female,No,Thur,Lunch,2,burritos
+17.47,3.5,Female,No,Thur,Lunch,2,butter tarts
+34.3,6.7,Male,No,Thur,Lunch,6,pizza
+41.19,5,Male,No,Thur,Lunch,5,shawarma
+27.05,5,Female,No,Thur,Lunch,6,burger
+16.43,2.3,Female,No,Thur,Lunch,2,burritos
+8.35,1.5,Female,No,Thur,Lunch,2,burger
+18.64,1.36,Female,No,Thur,Lunch,3,shawarma
+11.87,1.63,Female,No,Thur,Lunch,2,pizza
+9.78,1.73,Male,No,Thur,Lunch,2,burritos
+7.51,2,Male,No,Thur,Lunch,2,pizza
+14.07,2.5,Male,No,Sun,Dinner,2,shawarma
+13.13,2,Male,No,Sun,Dinner,2,butter tarts
+17.26,2.74,Male,No,Sun,Dinner,3,nachos
+24.55,2,Male,No,Sun,Dinner,4,burritos
+19.77,2,Male,No,Sun,Dinner,4,butter tarts
+29.85,5.14,Female,No,Sun,Dinner,5,burritos
+48.17,5,Male,No,Sun,Dinner,6,burger
+25,3.75,Female,No,Sun,Dinner,4,shawarma
+13.39,2.61,Female,No,Sun,Dinner,2,burritos
+16.49,2,Male,No,Sun,Dinner,4,burger
+21.5,3.5,Male,No,Sun,Dinner,4,pizza
+12.66,2.5,Male,No,Sun,Dinner,2,nachos
+16.21,2,Female,No,Sun,Dinner,3,burger
+13.81,1.96,Male,No,Sun,Dinner,2,shawarma
+17.51,3.2,Female,Yes,Sun,Dinner,2,burritos
+24.52,3.48,Male,No,Sun,Dinner,3,burger
+20.76,2.24,Male,No,Sun,Dinner,2,pizza
+31.71,4.5,Male,No,Sun,Dinner,4,shawarma
+10.59,1.61,Female,Yes,Sat,Dinner,2,butter tarts
+10.63,2,Female,Yes,Sat,Dinner,2,nachos
+50.81,10,Male,Yes,Sat,Dinner,3,burritos
+15.81,3.16,Male,Yes,Sat,Dinner,2,butter tarts
+7.25,5.15,Male,Yes,Sun,Dinner,2,pizza
+31.85,3.18,Male,Yes,Sun,Dinner,2,shawarma
+16.82,4,Male,Yes,Sun,Dinner,2,burger
+32.9,3.11,Male,Yes,Sun,Dinner,2,burritos
+17.89,2,Male,Yes,Sun,Dinner,2,burger
+14.48,2,Male,Yes,Sun,Dinner,2,shawarma
+9.6,4,Female,Yes,Sun,Dinner,2,pizza
+34.63,3.55,Male,Yes,Sun,Dinner,2,burritos
+34.65,3.68,Male,Yes,Sun,Dinner,4,pizza
+23.33,5.65,Male,Yes,Sun,Dinner,2,shawarma
+45.35,3.5,Male,Yes,Sun,Dinner,3,butter tarts
+23.17,6.5,Male,Yes,Sun,Dinner,4,nachos
+40.55,3,Male,Yes,Sun,Dinner,2,burritos
+20.69,5,Male,No,Sun,Dinner,5,butter tarts
+20.9,3.5,Female,Yes,Sun,Dinner,3,burritos
+30.46,2,Male,Yes,Sun,Dinner,5,burger
+18.15,3.5,Female,Yes,Sun,Dinner,3,shawarma
+23.1,4,Male,Yes,Sun,Dinner,3,burritos
+15.69,1.5,Male,Yes,Sun,Dinner,2,burger
+19.81,4.19,Female,Yes,Thur,Lunch,2,pizza
+28.44,2.56,Male,Yes,Thur,Lunch,2,nachos
+15.48,2.02,Male,Yes,Thur,Lunch,2,burger
+16.58,4,Male,Yes,Thur,Lunch,2,shawarma
+7.56,1.44,Male,No,Thur,Lunch,2,burritos
+10.34,2,Male,Yes,Thur,Lunch,2,burger
+43.11,5,Female,Yes,Thur,Lunch,4,pizza
+13,2,Female,Yes,Thur,Lunch,2,shawarma
+13.51,2,Male,Yes,Thur,Lunch,2,butter tarts
+18.71,4,Male,Yes,Thur,Lunch,3,nachos
+12.74,2.01,Female,Yes,Thur,Lunch,2,burritos
+13,2,Female,Yes,Thur,Lunch,2,butter tarts
+16.4,2.5,Female,Yes,Thur,Lunch,2,pizza
+20.53,4,Male,Yes,Thur,Lunch,4,shawarma
+16.47,3.23,Female,Yes,Thur,Lunch,3,burger
+26.59,3.41,Male,Yes,Sat,Dinner,3,burritos
+38.73,3,Male,Yes,Sat,Dinner,4,burger
+24.27,2.03,Male,Yes,Sat,Dinner,2,shawarma
+12.76,2.23,Female,Yes,Sat,Dinner,2,pizza
+30.06,2,Male,Yes,Sat,Dinner,3,burritos
+25.89,5.16,Male,Yes,Sat,Dinner,4,pizza
+48.33,9,Male,No,Sat,Dinner,4,shawarma
+13.27,2.5,Female,Yes,Sat,Dinner,2,butter tarts
+28.17,6.5,Female,Yes,Sat,Dinner,3,nachos
+12.9,1.1,Female,Yes,Sat,Dinner,2,burritos
+28.15,3,Male,Yes,Sat,Dinner,5,butter tarts
+11.59,1.5,Male,Yes,Sat,Dinner,2,burritos
+7.74,1.44,Male,Yes,Sat,Dinner,2,burger
+30.14,3.09,Female,Yes,Sat,Dinner,4,shawarma
+12.16,2.2,Male,Yes,Fri,Lunch,2,burritos
+13.42,3.48,Female,Yes,Fri,Lunch,2,burger
+8.58,1.92,Male,Yes,Fri,Lunch,1,pizza
+15.98,3,Female,No,Fri,Lunch,3,nachos
+13.42,1.58,Male,Yes,Fri,Lunch,2,burger
+16.27,2.5,Female,Yes,Fri,Lunch,2,shawarma
+10.09,2,Female,Yes,Fri,Lunch,2,burritos
+20.45,3,Male,No,Sat,Dinner,4,burger
+13.28,2.72,Male,No,Sat,Dinner,2,pizza
+22.12,2.88,Female,Yes,Sat,Dinner,2,shawarma
+24.01,2,Male,Yes,Sat,Dinner,4,butter tarts
+15.69,3,Male,Yes,Sat,Dinner,3,nachos
+11.61,3.39,Male,No,Sat,Dinner,2,burritos
+10.77,1.47,Male,No,Sat,Dinner,2,butter tarts
+15.53,3,Male,Yes,Sat,Dinner,2,pizza
+10.07,1.25,Male,No,Sat,Dinner,2,shawarma
+12.6,1,Male,Yes,Sat,Dinner,2,burger
+32.83,1.17,Male,Yes,Sat,Dinner,2,burritos
+35.83,4.67,Female,No,Sat,Dinner,3,burger
+29.03,5.92,Male,No,Sat,Dinner,3,shawarma
+27.18,2,Female,Yes,Sat,Dinner,2,pizza
+22.67,2,Male,Yes,Sat,Dinner,2,burritos
+17.82,1.75,Male,No,Sat,Dinner,2,pizza
+18.78,3,Female,No,Thur,Dinner,2,shawarma
+13.42,1.58,Male,Yes,Fri,Lunch,2,butter tarts
+16.27,2.5,Female,Yes,Fri,Lunch,2,nachos
+10.09,2,Female,Yes,Fri,Lunch,2,burritos
+20.45,3,Male,No,Sat,Dinner,4,butter tarts
+13.28,2.72,Male,No,Sat,Dinner,2,burritos
+22.12,2.88,Female,Yes,Sat,Dinner,2,burger
+24.01,2,Male,Yes,Sat,Dinner,4,shawarma
+15.69,3,Male,Yes,Sat,Dinner,3,burritos
+11.61,3.39,Male,No,Sat,Dinner,2,burger
+10.77,1.47,Male,No,Sat,Dinner,2,pizza
+15.53,3,Male,Yes,Sat,Dinner,2,nachos
+10.07,1.25,Male,No,Sat,Dinner,2,burger
+13.01,1.98,Male,Yes,Sat,Dinner,2,shawarma
+32.83,1.17,Male,Yes,Sat,Dinner,2,burritos
+35.83,4.67,Female,No,Sat,Dinner,3,burger
+29.03,5.92,Male,No,Sat,Dinner,3,pizza
+30.01,2.32,Female,Yes,Sat,Dinner,2,shawarma
+24.01,1.98,Male,Yes,Sat,Dinner,3,butter tarts
+17.82,1.75,Male,No,Sat,Dinner,2,nachos
+19.23,2.74,Female,No,Thur,Dinner,3,burritos
