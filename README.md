@@ -18,3 +18,5 @@ System Flow:-
 Technical wrap-up: 
 • Implementation in Python language 
 • Used Python libraries such as pandas, scikit-learn, matplotlib, seaborn 
+
+Date: June 2018; Client: Graduate Academic Project; Category: Python stand-alone application
