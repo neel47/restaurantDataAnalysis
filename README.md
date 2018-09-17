@@ -4,7 +4,9 @@ Predicted on which time of a particular day the restaurant will be most occupied
 
 
 Technologies : Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
 Analysed restaurant data of 1000 records for predicting amount of tip the waiter will earn based on parameters such as day, time, bill payer gender. Predicted on which time of a particular day the restaurant will be most occupied. Visualized data that enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. 
+
 System Flow:- 
 •	Data retrieval using panda library 
 •	Transform and clean the data using numpy & panda library 
